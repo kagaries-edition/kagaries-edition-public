@@ -11,3 +11,4 @@ Bedrock Edition is currently unsupported.
 
 This is not meant to be fair, but also not so unfair its not fun (except hardMode), create an issue if you want to give a suggestion if you want something to be more balenced.
 
+If you need info on any of the new recipes or changes, they will be located in the wiki when it is done
