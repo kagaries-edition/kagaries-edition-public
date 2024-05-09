@@ -18,7 +18,7 @@ When setting up a server, make sure that hardcore is true, you can leave it fals
 
 # Installation
 
-Go to **C:\Users\USER_NAME\AppData\Roaming\.minecraft\versions\**
+Go to C:\Users\USER_NAME\AppData\Roaming\\.minecraft\versions\
 
 Place 1.20.2_minecraft_kaizo_edition_(VERSION) folder in there
 
