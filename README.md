@@ -18,7 +18,7 @@ When setting up a server, make sure that hardcore is true, you can leave it fals
 
 # Installation
 
-Go to one of the [releases](https://github.com/archerv123456/minecraft-kaizo-editon-public/releases) and download either the jar (java 18 recommend) or the exe for windows.
+Go to one of the [releases](https://github.com/archerv123456/minecraft-kaizo-editon-public/releases) and download either the jar ([java 18 recommend](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)) or the exe for windows.
 
 After installing, start it, and click the install button if the install location was auto set. Make sure you make the minecraft launcher is closed while its installing.
 
