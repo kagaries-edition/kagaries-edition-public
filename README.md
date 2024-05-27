@@ -5,7 +5,7 @@ I am in no way affiliated with Mojang or their affiliates, they own Minecraft an
 
 # Info
 
-You will need a paid minecraft account to play this (no cracked), and no, there are not plans to make this cracked in anyway. [Minecraft Store](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc)
+You will need a paid minecraft account to play this (no cracked), and no, there are not plans to make this cracked in anyway. [Minecraft Store](www.minecraft.net/store/minecraft-java-bedrock-edition-pc)
 
 Bedrock Edition is currently unsupported.
 
