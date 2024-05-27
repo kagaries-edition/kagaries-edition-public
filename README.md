@@ -9,7 +9,7 @@ You will need a paid minecraft account to play this (no cracked), and no, there 
 
 Bedrock Edition is currently unsupported.
 
-This is not meant to be fair, but also not so unfair its not fun (except hardMode), create an issue if you want to give a suggestion if you want something to be more balenced.
+This is not meant to be fair, but also not so unfair its not fun (except extreme), create an issue if you want to give a suggestion if you want something to be more balenced.
 
 If you need info on any of the new recipes or changes, they will be located in the wiki when it is done
 
@@ -18,14 +18,16 @@ When setting up a server, make sure that hardcore is true, you can leave it fals
 
 # Installation
 
-Go to C:\Users\USER_NAME\AppData\Roaming\\.minecraft\versions\
+Go to one of the [releases](https://github.com/archerv123456/minecraft-kaizo-editon-public/releases) and download either the jar (java 18 recommend) or the exe for windows.
 
-Place 1.20.2_minecraft_kaizo_edition_(VERSION) folder in there
+After installing, start it, and click the install button if the install location was auto set. Make sure you make the minecraft launcher is closed while its installing.
 
-Next, make sure you restart the Minecraft Launcher if you had it open during that process
+Once its done installing, open up the minecraft launcher, and if all went well it should be there.
 
-Then go to installations, and click new installation
+# Credits
 
-If you did everything correctly, searching "1.20.2_minecraft_kaizo_edition" should have the version show up
+Thanks to the people who worked on [java-discord-rpc](https://github.com/MinnDevelopment/java-discord-rpc/tree/master) for making my life much easier when it came to the rich presense.
 
-![Screenshot (23)](https://github.com/archerv123456/minecraft-kaizo-editon-public/assets/87618338/6def97c3-6705-4b4f-8106-c53585d05269)
+Thanks to the [Fabric](https://fabricmc.net) team for allowing others to modify their [installer](https://github.com/FabricMC/fabric-installer) for other uses, like this one.
+
+And thanks to [Mojang](https://www.minecraft.net/en-us) and the [MCPReborn](https://github.com/Hexeption/MCP-Reborn) for making any of this possible.
