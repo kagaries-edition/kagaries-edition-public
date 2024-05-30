@@ -1,7 +1,6 @@
 # Minecraft Kaizo Editon
 
-I am in no way affiliated with Mojang or their affiliates, they own Minecraft and its source code. None of this would be possible without them, and the MCP Reborn team.
-
+THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
 # Info
 
