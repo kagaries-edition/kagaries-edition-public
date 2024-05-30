@@ -1,5 +1,4 @@
-# Kaizo Editon
-## A modification of Minecraft
+# Kaizo Editon: A tougher modification of Minecraft
 
 THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
