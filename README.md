@@ -30,3 +30,9 @@ Thanks to the people who worked on [java-discord-rpc](https://github.com/MinnDev
 Thanks to the [Fabric](https://fabricmc.net) team for allowing others to modify their [installer](https://github.com/FabricMC/fabric-installer) for other uses, like this one.
 
 And thanks to [Mojang](https://www.minecraft.net/en-us) and the [MCPReborn](https://github.com/Hexeption/MCP-Reborn) team for making any of this possible.
+
+# Public Plans
+
+We plan to make a launcher in the near future release date unknown.
+
+We plan to release a website to help better download the releases of Kaizo Edition.(Release planned for Aug 1, 2024 - Aug 20, 2024.
