@@ -14,6 +14,7 @@ If you need info on any of the new recipes or changes, they will be located in t
 
 When setting up a server, make sure that hardcore is true, you can leave it false, but this is meant to be played on hardcore.
 
+[Discord](https://discord.com/invite/aG4a2vEEvu)
 
 # Installation
 
