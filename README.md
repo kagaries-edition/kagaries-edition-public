@@ -14,7 +14,7 @@ If you need info on any of the new recipes or changes, they will be located in t
 
 When setting up a server, make sure that hardcore is true, you can leave it false, but this is meant to be played on hardcore.
 
-Also the port of the server is 25565, to use it without port fowarding, i usually use [playit](https://playit.gg), but you can use whatever is needed.
+Also the port of the server is 25565, to use it without port fowarding, i personally use [playit](https://playit.gg), but you can use whatever is needed.
 
 [Discord](https://discord.com/invite/aG4a2vEEvu)
 
