@@ -38,4 +38,4 @@ And thanks to [Mojang](https://www.minecraft.net/en-us), [Microsoft](https://www
 
 Discord - Kagaries (@kagaries)
 
-EMail - kagarieswinnfield@gmail.com
+Email - kagarieswinnfield@gmail.com
