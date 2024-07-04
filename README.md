@@ -33,6 +33,6 @@ And thanks to [Mojang](https://www.minecraft.net/en-us) and the [MCPReborn](http
 
 # Contact
 
-Discord - @Kagaries
+Discord - Kagaries (@kagaries)
 
 EMail - kagarieswinnfield@gmail.com
