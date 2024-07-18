@@ -26,6 +26,12 @@ After installing, start it, and click the install button if the install location
 
 Once its done installing, open up the minecraft launcher, and if all went well it should be there.
 
+## Server Hosing Guide
+
+To host a server, its recommended you run it from a command line (Command Prompt, whatever) so you can see the logs and use commands.
+
+the version of java is recommended to be Java 18
+
 # Credits
 
 Thanks to the people who worked on [java-discord-rpc](https://github.com/MinnDevelopment/java-discord-rpc/tree/master) for making my life much easier when it came to the rich presense.
