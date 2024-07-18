@@ -18,7 +18,7 @@ Also the port of the server is 25565, to use it without port fowarding, i person
 
 [Kaizo Edition Discord](https://discord.com/invite/aG4a2vEEvu) You must be 13+
 
-You can now use chat colors in chat, [Here](https://htmlcolorcodes.com/minecraft-color-codes/) is where you can find the color codes, they do start with §
+You can use chat colors in chat, [Here](https://htmlcolorcodes.com/minecraft-color-codes/) is where you can find the color codes, they do start with §
 
 # Installation
 
