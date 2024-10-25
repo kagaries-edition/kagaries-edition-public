@@ -16,7 +16,7 @@ When setting up a server, make sure that hardcore is true, you can leave it fals
 
 Also the port of the server is 25565, to use it without port fowarding, i personally use [playit](https://playit.gg), but you can use whatever is needed.
 
-[Kaizo Edition Discord](https://discord.com/invite/aG4a2vEEvu) You must be 13+
+[Kaizo Edition Discord](https://discord.gg/dcRBF3Rqsg) You must be 13+
 
 You can use chat colors in chat, [Here](https://htmlcolorcodes.com/minecraft-color-codes/) is where you can find the color codes, they do start with §
 
