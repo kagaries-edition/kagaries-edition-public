@@ -15,9 +15,10 @@ This is a modification for Minecraft created by Kagaries. It's aim is to make Mi
 
 ## Contact
 
-| Name  | Email |
-| ------------- | ------------- |
-| Kagaries  | kagarieswinnfield@gmail.com  |
+|  Name  |  Email  | Discord |
+| ------------- | ------------- | ------------- |
+| Kagaries  | kagarieswinnfield@gmail.com  | @kagaries  |
+| SightedTortoise | N/A  | @sightedtortoise  |
 
 ## Credits
 
