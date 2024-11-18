@@ -15,10 +15,12 @@ This is a modification for Minecraft created by Kagaries. It's aim is to make Mi
 
 ## Contact
 
-|  Name  |  Email  | Discord |
-| ------------- | ------------- | ------------- |
-| Kagaries  | kagarieswinnfield@gmail.com  | @kagaries  |
-| SightedTortoise | N/A  | @sightedtortoise  |
+|  Name | Position |  Email  | Discord |
+| ------------- | ------------- | ------------- | ------------- |
+| Kagaries | Creator/Head Dev | kagarieswinnfield@gmail.com  | @kagaries  |
+| SightedTortoise | Bedrock/Website Dev | N/A  | @sightedtortoise  |
+| Dragon Sam | Kaizo/Website Dev | N/A | @dragon_sam1 |
+| Taco Dark | Music Producer | N/A | @iamatacoman |
 
 ## Credits
 
