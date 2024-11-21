@@ -10,5 +10,11 @@
     "applyPrefix": true,
     "replaceName": false,
     "prefix": "§4[DEV/HATED] §c"
+  },
+  {
+    "username": "Porcipine",
+    "applyPrefix": true,
+    "replaceName": false,
+    "prefix": "[MUSIC] "
   }
 ]
