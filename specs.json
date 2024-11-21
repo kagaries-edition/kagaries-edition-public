@@ -1,10 +1,12 @@
 [
   {
     "username": "Kagaries",
-    "spec": "DEV"
+    "spec": "DEV",
+    "prefix": "§9§l[DEV] "
   },
   {
     "username": "Dragon_Sam",
-    "spec": "HDEV"
+    "spec": "HDEV",
+    "prefix": "§c[DEV/HATED] "
   }
 ]
