@@ -9,8 +9,8 @@
   {
     "username": "Dragon_Sam",
     "spec": "HDEV",
-    "applyPrefix": true,
-    "replaceName": false,
-    "prefix": "§c[DEV/HATED] "
+    "applyPrefix": false,
+    "replaceName": true,
+    "prefix": "§4[§cD§6E§eV§4/§cH§6A§eT§4E§cD§4]§0 §8D§7r§6a§5g§4o§3n§2_§1S§9a§5m"
   }
 ]
