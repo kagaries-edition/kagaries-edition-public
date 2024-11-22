@@ -1,6 +1,6 @@
 [
   {
-    "id": "test",
+    "id": "kagaries.test",
     "type": "normal",
     "description": "kagaries.test.description",
     "valueNeeded": 1,
