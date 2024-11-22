@@ -3,7 +3,7 @@
     "id": "kagaries.test",
     "type": "normal",
     "description": "kagaries.test.description",
-    "valueNeeded": 1,
+    "valueNeeded": 10000,
     "hidden": false
   }
 ]
