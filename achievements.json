@@ -1,9 +1,9 @@
 [
   {
-    "id": "damage.deal.100",
+    "id": "damage.deal",
     "type": "normal",
-    "description": "kagaries.test.description",
-    "valueNeeded": 100,
+    "description": "damage.deal.description",
+    "valueNeeded": 5000,
     "hidden": false
   }
 ]
