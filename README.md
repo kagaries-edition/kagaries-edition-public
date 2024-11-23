@@ -1,12 +1,12 @@
-# Kaizo Editon
+# Kagaries Editon
 
 THIS IS NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
-This is a modification for Minecraft created by Kagaries. It's aim is to make Minecraft tougher while adding more to it.
+This is a modification for Minecraft created by Kagaries.
 
 ## Install
 
-1. Go to the [Releases](https://github.com/kaizo-edition/kaizo-edition-public/releases) page, and download the latest installer (EXE for windows, JAR for all platforms).
+1. Go to the [Releases](https://github.com/kagaries-edition/kagaries-edition-public/releases) page, and download the latest installer (EXE for windows, JAR for all platforms).
 2. Click the install button, and wait for it to finsh
 3. Now go to your Minecraft Launcher, select the version, and click play!
 
