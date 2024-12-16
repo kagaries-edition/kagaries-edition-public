@@ -13,6 +13,12 @@ This is a modification for Minecraft created by Kagaries.
 > [!IMPORTANT]
 > If you encounter problems with not having Java, install it!
 
+## Fabric
+
+[Github](https://github.com/kagaries/magia-edition-fabric)
+[Modrinth](https://modrinth.com/mod/magia-edition)
+[CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/magia-edition)
+
 ## Contact
 
 |  Name | Position |  Email  | Discord |
